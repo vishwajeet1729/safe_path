@@ -12,6 +12,7 @@
     "@uidotdev/usehooks": "^2.4.1",
     "chart.js": "^4.5.0",
     "deck.gl": "^9.1.13",
+    "framer-motion": "^12.23.5",
     "leaflet": "^1.9.4",
     "mapbox-gl": "^3.13.0",
     "offline-geocode-city": "^1.0.2",
